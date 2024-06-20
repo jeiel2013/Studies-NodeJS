@@ -10,7 +10,7 @@ server.get("/hello", (req, res) => { // req = requisição | res = resposta
 
     return res.json({
         title: "Hello World",
-        message: `Olá ${nome} tudo bem!?`,
+        message: `Olá ${nome} tudo bem com você!?`,
         idade: idade
     });
 }); // receber informações
