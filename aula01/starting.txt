@@ -3,3 +3,7 @@ yarn init -yarn
 
 Depois
 yarn add express
+
+Nodemon: 
+yarn add nodemon
+Se não for de primeira, coloque -> npx nodemon index.js
